@@ -1,0 +1,10 @@
+Jean-Louis Trintignant, 13, 1, 2, 9, 9, 1
+Yves Montand, 25, 5, 1, 9, 8, 9
+Philippe Noiret, 3, 3, 1, 2, 4, 9
+Michel Piccoli, 15, 10, 1, 9, 5, 8
+Jeanne Moreau, 21, 1, 1, 9, 9, 3
+Michèle Morgan, 31, 8, 2, 10, 2, 1
+Sophie Marceau, 25, 8, 1, 9, 9, 9
+Christopher Lambert, 11, 4, 2, 10, 2, 2
+Isabelle Adjani, 31, 1, 2, 10, 1, 10
+Fanny Ardant, 9, 5, 1, 9, 8, 8
